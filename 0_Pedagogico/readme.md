@@ -1,0 +1,1 @@
+Este diretório contém materiais acadêmicos, como currículos, calendario, referencias da antroposofia, etc.

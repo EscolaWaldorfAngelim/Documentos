@@ -1,0 +1,1 @@
+Este diretório contém documentos administrativos importantes, como contratos, políticas, relatórios financeiros, etc.
