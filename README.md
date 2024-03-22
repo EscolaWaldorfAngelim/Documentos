@@ -1,5 +1,4 @@
-## Bem-vindo ao Repositório Centralizado e Colaborativo no GitHub!
-
+## Bem-vindo ao Repositório Centralizado e Colaborativo do Angelim
 Olá a todos!
 
 Este repositório foi criado com o propósito de proporcionar um espaço centralizado e colaborativo para armazenar e gerenciar documentos da nossa escola
