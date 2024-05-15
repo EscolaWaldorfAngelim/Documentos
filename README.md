@@ -4,6 +4,15 @@ Olá a todos!
 Este repositório foi criado com o propósito de proporcionar um espaço centralizado e colaborativo para armazenar e gerenciar documentos da nossa escola
 Aqui, todos podem contribuir, compartilhar e colaborar em projetos de forma eficiente e organizada.
 
+## Links importantes aqui dentro!
+
+# [Lista de demandas/problemas da nossa Escola](https://github.com/EscolaWaldorfAngelim/Documentos/issues) 
+# [Nossa Wiki](https://github.com/EscolaWaldorfAngelim/Documentos/wiki) 
+# [FAQ das famílias](https://github.com/EscolaWaldorfAngelim/Documentos/tree/main/2_ConselhoFamilias) 
+
+
+
+
 ### Por que usar o GitHub?
 
 O GitHub oferece diversas vantagens para o gerenciamento de projetos e colaboração:
