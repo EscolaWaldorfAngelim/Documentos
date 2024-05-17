@@ -6,12 +6,9 @@ Aqui, todos podem contribuir, compartilhar e colaborar em projetos de forma efic
 
 ## Links importantes aqui dentro!
 
-# [Lista de demandas/problemas da nossa Escola](https://github.com/EscolaWaldorfAngelim/Documentos/issues) 
-# [Nossa Wiki](https://github.com/EscolaWaldorfAngelim/Documentos/wiki) 
-# [FAQ das famílias](https://github.com/EscolaWaldorfAngelim/Documentos/tree/main/2_ConselhoFamilias) 
-
-
-
+#### [Lista de demandas/problemas da nossa Escola](https://github.com/EscolaWaldorfAngelim/Documentos/issues) 
+#### [Nossa Wiki](https://github.com/EscolaWaldorfAngelim/Documentos/wiki) 
+#### [Perguntas frequentes (FAQ) das famílias](https://github.com/EscolaWaldorfAngelim/Documentos/tree/main/2_ConselhoFamilias) 
 
 ### Por que usar o GitHub?
 
